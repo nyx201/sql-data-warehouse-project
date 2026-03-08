@@ -1,6 +1,8 @@
 # Data Warehouse and Analytics Project
 
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Deigned  as a portfolio project that highlights industry best practices in data analytics.
+This project builds a modern SQL Data Warehouse using Medallion Architecture (Bronze, Silver, Gold layers). 
+The pipeline extracts raw CRM and ERP datasets, cleans and transforms them through ETL processes, 
+and models the final data using a Star Schema for analytics and reporting.Deigned  as a portfolio project that highlights industry best practices in data analytics.
 
 ---
 
